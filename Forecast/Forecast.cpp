@@ -1,4 +1,4 @@
-#include "Forecast.h"
+    #include "Forecast.h"
 #include <iostream>
 
 std::string base_of_city_request = "https://api.api-ninjas.com/v1/city?name=";
